@@ -30,3 +30,9 @@ Sample UI below. The app doesn't need to have fancy design. We are looking for f
 - Include instructions on how to set it up and run in the README.md
 - Add your resume and other profile / project links
 - Submit a pull request (PR)
+
+Project link for Job Portal System:
+https://github.com/leenamadaan/jobportalsystem
+This provides a platform to job seeker and recruiter to enhance the recruitment process.
+In this, Company's can post the job, user can view job and apply for the same on the basis of their designation, qualification, experience.
+
